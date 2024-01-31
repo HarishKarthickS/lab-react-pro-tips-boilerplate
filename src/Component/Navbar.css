@@ -1,0 +1,21 @@
+#Navbar {
+  height: 66px;
+  width: 100vw;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#Navbar-1 {
+  width: 15vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 3%;
+  font-size: 21px;
+}
+img {
+  height: 50px;
+  width: 200px;
+}
